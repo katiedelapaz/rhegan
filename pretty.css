@@ -1,0 +1,48 @@
+h1 {
+  font-family: 'Handlee', cursive;
+  text-align: center;
+  font-size: 50px;
+  background-color: #1adfe8;
+  padding: 25px;
+  margin: 50px;
+  border-style: groove;
+  border-color: black;
+  border-width: thin;
+}
+
+body {
+  text-align: center;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/52/16/875793470a22547.jpg");
+}
+
+p {
+  text-align: center;
+  text-color: black;
+  font-family: 'Emilys Candy', cursive;
+}
+
+img {
+  border-style: ridge;
+  border-color: #f9e0ea;
+  border-width: medium;
+}
+
+a {
+  font-family: 'Handlee', cursive;
+  font-size: 20px;
+  cursor: hand;
+}
+
+#gorl {
+  text-align: left;
+  font-size: 18px;
+  background-color: white;
+  padding: 15px;
+  font-family: 'Handlee', cursive;
+  margin: 15px;
+}
+.heyo {
+  color: black;
+  text-shadow: 1px 1px white;
+  font-size: 23px;
+}
